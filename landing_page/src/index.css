@@ -1,0 +1,42 @@
+.S{
+  background-color: rgb(54, 163, 214);
+  position: relative;
+  height: 60px;
+
+}
+
+.a{
+  position: relative;
+  left: 40px;
+}
+.n{
+  position: relative;
+  left: 80px;
+}
+.url{
+  background-color: aqua;
+}
+.f{
+  position: relative;
+  top:200px;
+}
+.form{
+  position: relative;
+  height: 500px;
+}
+.app{
+  background-image: url(./assets/beautiful-mountains-landscape_23-2150787780.jpg);
+  background-size:cover;
+  overflow-y: hidden;
+min-height: 100vh;
+
+
+}
+.about{
+  position: relative;
+  top:100px;
+}
+.div{
+  position: relative;
+  top:200px;
+}

@@ -9,7 +9,7 @@ function Contact(){
     <section>
         <h2>Contact Information</h2>
         <p>
-            <strong>Email:</strong> example@email.com<br></br>
+            <strong>Email:</strong> sanju@email.com<br></br>
             <strong>Phone:</strong> (123) 456-7890<br></br>
             <strong>Address:</strong> 123 Main Street, Anytown, CA 91234
         </p>

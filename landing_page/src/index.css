@@ -25,7 +25,7 @@
   height: 500px;
 }
 .app{
-  background-image: url(./assets/beautiful-mountains-landscape_23-2150787780.jpg);
+  background-image: url(./assets/picture.jpg);
   background-size:cover;
   overflow-y: hidden;
 min-height: 100vh;

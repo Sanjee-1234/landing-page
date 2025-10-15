@@ -6,7 +6,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Home from './Pages/Home/Home'
 import About from './Pages/Destination/About'
 import Contact from './Pages/Contact/Contact'
-import Navbar from './Pages/Destination/Navbar'
+import Navbar from './components/Navbar'
 function App(){
   return(
     <div className='app'>

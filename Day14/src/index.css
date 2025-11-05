@@ -1,0 +1,17 @@
+.s{
+  position: relative;
+  height: 30px;
+  width:200px;
+  text-align: center;
+
+}
+.bv{
+  background-color: aquamarine;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 100px;
+
+}
+.bvs{
+  background-color: antiquewhite;
+  border: 1px solid black;
+}
